@@ -1,0 +1,13 @@
+StoreID,StoreName,Region,Country,State,Manager
+1,Croma_CA,West,USA,California,Manager_1
+2,Croma_WA,West,USA,Washington,Manager_2
+3,Croma_AZ,West,USA,Arizona,Manager_3
+4,Croma_TX,South,USA,Texas,Manager_4
+5,Croma_FL,South,USA,Florida,Manager_5
+6,Croma_GA,South,USA,Georgia,Manager_6
+7,Croma_IL,Midwest,USA,Illinois,Manager_7
+8,Croma_OH,Midwest,USA,Ohio,Manager_8
+9,Croma_MI,Midwest,USA,Michigan,Manager_9
+10,Croma_NY,Northeast,USA,New York,Manager_10
+11,Croma_MA,Northeast,USA,Massachusetts,Manager_11
+12,Croma_PA,Northeast,USA,Pennsylvania,Manager_12

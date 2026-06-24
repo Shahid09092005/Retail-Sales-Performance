@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Price,Cost
+1,MacBook Pro 14,Laptop,1999.99,1500.0
+2,Dell XPS 13,Laptop,1299.99,950.0
+3,iPhone 15 Pro,Smartphone,1099.99,800.0
+4,Samsung Galaxy S24,Smartphone,999.99,750.0
+5,iPad Air,Tablet,599.99,420.0
+6,Sony WH-1000XM5,Headphones,349.99,200.0
+7,Logitech MX Master 3S,Accessories,99.99,45.0
+8,Apple Watch Series 9,Wearables,429.99,280.0
+9,MacBook Air M2,Laptop,1099.99,820.0
+10,HP Spectre x360,Laptop,1349.99,1000.0
+11,iPhone 15,Smartphone,799.99,580.0
+12,Google Pixel 8 Pro,Smartphone,999.99,730.0
+13,iPad Pro 12.9,Tablet,1099.99,800.0
+14,Samsung Galaxy Tab S9,Tablet,799.99,570.0
+15,Apple AirPods Pro 2,Headphones,249.99,150.0
+16,Bose QuietComfort 45,Headphones,329.99,188.0
+17,Anker USB-C Hub 7-in-1,Accessories,49.99,22.0
+18,Apple Magic Keyboard,Accessories,99.99,47.0
+19,Samsung Galaxy Watch 6,Wearables,299.99,188.0
+20,PlayStation 5,Gaming,499.99,390.0
