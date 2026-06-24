@@ -1,14 +1,7 @@
 # Retail-Sales-Performance
 Interactive Tableau dashboards for Retail Sales Performance Analysis, featuring revenue tracking, profitability analysis, inventory optimization, regional sales insights, and KPI-driven business intelligence reporting.
-# 📊 Retail Sales Performance Analytics Dashboard (Tableau)
-
-This Tableau Dashboard provides actionable insights into retail sales performance, revenue generation, profitability, inventory management, and regional sales trends to support data-driven business decisions.
 
 ---
-
-## 🧩 Dashboard Overview
-
-![Dashboard Screenshot](images/overall-business-performance.png)
 
 ### 🔍 Key Metrics
 
@@ -24,7 +17,7 @@ This Tableau Dashboard provides actionable insights into retail sales performanc
 
 ### 1. Overall Business Performance
 
-![Overall Business Performance](images/overall-business-performance.png)
+![Overall Business Performance]()
 
 * Revenue and profit tracking
 * Monthly sales trend analysis
