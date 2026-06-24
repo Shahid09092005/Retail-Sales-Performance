@@ -17,7 +17,7 @@ Interactive Tableau dashboards for Retail Sales Performance Analysis, featuring 
 
 ### 1. Overall Business Performance
 
-![Overall Business Performance]()
+![Overall Business Performance](https://github.com/Shahid09092005/Retail-Sales-Performance/blob/main/Images/OVERALL%20STATUS%20OF%20BUSINESS.png)
 
 * Revenue and profit tracking
 * Monthly sales trend analysis
@@ -25,7 +25,7 @@ Interactive Tableau dashboards for Retail Sales Performance Analysis, featuring 
 
 ### 2. Category & Regional Sales Performance
 
-![Category & Regional Sales Performance](images/category-region-sales.png)
+![Category & Regional Sales Performance](https://github.com/Shahid09092005/Retail-Sales-Performance/blob/main/Images/CATEGORY%20AND%20REGION%20WISE%20SALES%20PERFORMANCE.png)
 
 * Category-wise sales analysis
 * Regional revenue comparison
@@ -33,7 +33,7 @@ Interactive Tableau dashboards for Retail Sales Performance Analysis, featuring 
 
 ### 3. Revenue Analysis
 
-![Revenue Analysis](images/revenue-analysis.png)
+![Revenue Analysis](https://github.com/Shahid09092005/Retail-Sales-Performance/blob/main/Images/All%20Stores%20Revenue%20Analysis.png)
 
 * Store-level revenue comparison
 * Average Order Value (AOV) analysis
@@ -41,7 +41,7 @@ Interactive Tableau dashboards for Retail Sales Performance Analysis, featuring 
 
 ### 4. Inventory Restocking Analysis
 
-![Inventory Restocking Analysis](images/inventory-restocking.png)
+![Inventory Restocking Analysis](https://github.com/Shahid09092005/Retail-Sales-Performance/blob/main/Images/Inventory%20Restocking%20Analysis.png)
 
 * Inventory coverage monitoring
 * Restocking recommendations
