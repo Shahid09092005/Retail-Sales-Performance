@@ -57,7 +57,7 @@ This project presents a **Retail Sales Performance Analytics Dashboard** develop
 ## 1. Overall Business Performance
 
 <p align="center">
-<img src="images/overall-business-performance.png" width="100%">
+<img src="https://github.com/Shahid09092005/Retail-Sales-Performance/blob/main/Images/OVERALL%20STATUS%20OF%20BUSINESS.png" width="100%">
 </p>
 
 **Key Insights**
@@ -71,7 +71,7 @@ This project presents a **Retail Sales Performance Analytics Dashboard** develop
 ## 2. Category & Regional Sales Performance
 
 <p align="center">
-<img src="images/category-region-sales.png" width="100%">
+<img src="https://github.com/Shahid09092005/Retail-Sales-Performance/blob/main/Images/CATEGORY%20AND%20REGION%20WISE%20SALES%20PERFORMANCE.png" width="100%">
 </p>
 
 **Key Insights**
@@ -85,7 +85,7 @@ This project presents a **Retail Sales Performance Analytics Dashboard** develop
 ## 3. Revenue Analysis
 
 <p align="center">
-<img src="images/revenue-analysis.png" width="100%">
+<img src="https://github.com/Shahid09092005/Retail-Sales-Performance/blob/main/Images/All%20Stores%20Revenue%20Analysis.png" width="100%">
 </p>
 
 **Key Insights**
@@ -99,7 +99,7 @@ This project presents a **Retail Sales Performance Analytics Dashboard** develop
 ## 4. Inventory Restocking Analysis
 
 <p align="center">
-<img src="images/inventory-restocking.png" width="100%">
+<img src="https://github.com/Shahid09092005/Retail-Sales-Performance/blob/main/Images/Inventory%20Restocking%20Analysis.png" width="100%">
 </p>
 
 **Key Insights**
@@ -113,7 +113,7 @@ This project presents a **Retail Sales Performance Analytics Dashboard** develop
 ## 5. Pricing & Profitability Analysis
 
 <p align="center">
-<img src="images/pricing-profitability.png" width="100%">
+<img src="https://github.com/Shahid09092005/Retail-Sales-Performance/blob/main/Images/Identify%20High-Profit%20Products%20%26%20Optimize%20Pricing%20Strategy.png" width="100%">
 </p>
 
 **Key Insights**
@@ -167,8 +167,8 @@ Retail-Sales-Performance-Analytics/
 │   ├── inventory-restocking.png
 │   └── pricing-profitability.png
 │
-├── Tableau Workbook/
-├── Dataset/
+├── Sales Performance Analysis
+├── Dataset
 └── README.md
 ```
 
@@ -176,11 +176,15 @@ Retail-Sales-Performance-Analytics/
 
 <div align="center">
 
+---
+
 ## 👨‍💻 Author
 
-### Mansur Islam
+### Shahid Mansuri
 
-**Data Analyst | Business Intelligence Enthusiast | Tableau Developer**
+📧 Email: mansurism2005@gmail.com
+
+🔗 LinkedIn: [linkedin.com/in/shahid-mansuri](https://www.linkedin.com/in/shahid-mansuri-a3b901285/)
 
 ⭐ If you found this project useful, consider giving it a Star.
 
